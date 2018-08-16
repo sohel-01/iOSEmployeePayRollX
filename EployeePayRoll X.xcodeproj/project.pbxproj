@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9BD025ED21261B8A00EB4E5E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD025EC21261B8A00EB4E5E /* ViewController.swift */; };
 		A33F778C2123B7BF00C7A39B /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A33F778B2123B7BF00C7A39B /* SplashViewController.swift */; };
 		A3480655211A7A6500D18BC4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3480654211A7A6500D18BC4 /* AppDelegate.swift */; };
 		A348065A211A7A6500D18BC4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3480658211A7A6500D18BC4 /* Main.storyboard */; };
@@ -24,6 +25,7 @@
 		58AF3A065E8E4D36294660AB /* Pods_EployeePayRoll_X.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EployeePayRoll_X.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		69D17299EB0F088540A3234E /* Pods-EployeePayRoll X.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EployeePayRoll X.debug.xcconfig"; path = "Pods/Target Support Files/Pods-EployeePayRoll X/Pods-EployeePayRoll X.debug.xcconfig"; sourceTree = "<group>"; };
 		7EDEEE907245006469B94E53 /* Pods-EployeePayRoll X.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EployeePayRoll X.release.xcconfig"; path = "Pods/Target Support Files/Pods-EployeePayRoll X/Pods-EployeePayRoll X.release.xcconfig"; sourceTree = "<group>"; };
+		9BD025EC21261B8A00EB4E5E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A33F778B2123B7BF00C7A39B /* SplashViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewController.swift; sourceTree = "<group>"; };
 		A3480651211A7A6500D18BC4 /* EployeePayRoll X.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "EployeePayRoll X.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3480654211A7A6500D18BC4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 				A3FC0C2C21250A4200C9BFF2 /* SignUpViewController.swift */,
 				A3FC0C2E21250E2B00C9BFF2 /* RoundedWhiteButton.swift */,
 				A3E98C7221263930002A5881 /* MainMenuViewController.swift */,
+				9BD025EC21261B8A00EB4E5E /* ViewController.swift */,
 			);
 			path = "EployeePayRoll X";
 			sourceTree = "<group>";
@@ -226,6 +229,7 @@
 				A3FC0C2B21250A2D00C9BFF2 /* LoginViewController.swift in Sources */,
 				A33F778C2123B7BF00C7A39B /* SplashViewController.swift in Sources */,
 				A3FC0C2D21250A4200C9BFF2 /* SignUpViewController.swift in Sources */,
+				9BD025ED21261B8A00EB4E5E /* ViewController.swift in Sources */,
 				A3480655211A7A6500D18BC4 /* AppDelegate.swift in Sources */,
 				A3FC0C2F21250E2B00C9BFF2 /* RoundedWhiteButton.swift in Sources */,
 			);
