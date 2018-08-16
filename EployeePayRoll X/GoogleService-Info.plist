@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>265864191270-6kgbutruu6fogtq0gijt654uj65hp7v0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.265864191270-6kgbutruu6fogtq0gijt654uj65hp7v0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCVw1fak94VaXWlz366S0jvKsFLoVV-VCE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>265864191270</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mdsp.EployeePayRoll-X</string>
+	<key>PROJECT_ID</key>
+	<string>employee-p-m</string>
+	<key>STORAGE_BUCKET</key>
+	<string>employee-p-m.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:265864191270:ios:003092b7bc41cc49</string>
+	<key>DATABASE_URL</key>
+	<string>https://employee-p-m.firebaseio.com</string>
+</dict>
+</plist>
